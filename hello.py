@@ -19,6 +19,7 @@ def main():
     print("the file modified by branch second")
     print("the file modified by branch second")
     print("the file modified by branch second")
+    print("hello")
 
 
 if __name__ == "__main__":
